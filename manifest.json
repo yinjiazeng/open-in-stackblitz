@@ -1,0 +1,18 @@
+{
+  "name": "Open in Stackblitz",
+  "description" : "This extension can be clicked on the icon to open the Github repository using Stackblitz.",
+  "version": "1.0.0",
+  "browser_action": {
+    "default_icon": "icons/16_disable.png"
+  },
+  "icons": {
+    "16": "icons/16_disable.png",
+    "48": "icons/48_disable.png",
+    "128": "icons/128_disable.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["tabs"],
+  "manifest_version": 2
+}
