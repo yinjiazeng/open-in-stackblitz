@@ -1,5 +1,5 @@
 {
-  "name": "Open in Stackblitz",
+  "name": "Open with Stackblitz",
   "description" : "This extension can be clicked on the icon to open the Github repository using Stackblitz.",
   "version": "1.0.0",
   "browser_action": {
